@@ -1,0 +1,21 @@
+# .gitignore
+#
+# Author: José V S Carneiro <git@josevaltersilvacarneiro.net>
+# Creative Commons Zero v1.0 Universal
+
+# Python virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Pycharm
+.idea/
+
